@@ -1,0 +1,7 @@
+vllm==0.3.3
+torch==2.2.0
+transformers
+accelerate
+sentencepiece
+pillow
+opencv-python-headless
