@@ -1,5 +1,5 @@
-vllm==0.3.3
-torch==2.2.0
+vllm
+torch
 transformers
 accelerate
 sentencepiece
